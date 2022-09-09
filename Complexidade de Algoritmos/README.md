@@ -26,6 +26,9 @@ Como determinar o que é relevante? 2 passos:
 
 2)desconsiderar adiçao, subtraçao, multiplicaçao ou divisao de passos constantes.
 
+![oloco_dog](https://user-images.githubusercontent.com/101916850/189387728-2ff93ce9-9473-440f-9acc-142af7cd9235.PNG)
+
+
 Notação omicron: "O numero de passos de um alg sempre será menor ou igual a sua parte relevante multiplicada por uma constante." . 
 
 Na prática , o que ser feito p determinar o número de passos? Só considerar o loop que possui mais sub-loops no seu algoritmo. Tudo que está fora deste loop é desconsiderado.
