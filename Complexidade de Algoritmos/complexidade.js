@@ -3,7 +3,7 @@ const inverterLista = (lista = []) => {
     for (let i = 0; i < lista.length/2; i++) {
         aux = lista[i];
         lista[i] = lista[lista.length - i - 1]
-        const x = lista[lista.length - i - 1] = aux;
+        lista[lista.length - i - 1] = aux;
     }
     console.log(lista)
 }
