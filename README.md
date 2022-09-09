@@ -5,4 +5,6 @@ https://youtube.com/playlist?list=PLAGoEvRJAw9BRjbWhDJPDdmnQ1iVXC68r
 
 aula 01 - introdução basiquinha ;
 
-aula 02 - Recursividade - quando tal coisa chama ela mesma, como uma função chamar ela mesma dentro dela própria. evite loops infinitos com uma condição;
+aula 02 - Recursividade ;
+
+aula 03 - Complexidade (eficiência) de algoritmos;
