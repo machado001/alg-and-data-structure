@@ -8,3 +8,5 @@ aula 01 - introdução basiquinha ;
 aula 02 - Recursividade ;
 
 aula 03 - Complexidade (eficiência) de algoritmos;
+
+aula 04 - Definição e representação computacional de listas sequenciais;
